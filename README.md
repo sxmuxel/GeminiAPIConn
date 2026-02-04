@@ -3,9 +3,9 @@
 ## Requisitos previos
 - Python
 - Git
-- API Key de Gemini
+- Clave de acceso a la API de Gemini
 
-## Instrucciones de ejecución
+## Instrucciones de ejecución (Windows)
 
 ### Paso 1: Clonar repositorio
 
@@ -32,13 +32,13 @@ pip install -r requirements.txt
 
 ### Paso 4: Configurar la variable de entorno
 
-Crear un archivo .env en la raiz del proyecto a partir del archivo de ejemplo.
+Crear un archivo .env en la raíz del proyecto a partir del archivo de ejemplo.
 
 En la terminal:
 ```bash
 copy .env.example .env
 ```
-Reemplazar la clave generica por la clave propia.
+Reemplazar la clave genérica por la clave propia.
 
 ### Paso 5: Ejecutar el script de conexión
 
@@ -50,7 +50,7 @@ python app_gemini.py
 ---
 
 # Evidencia de ejecución del script de conexión
-<img width="1290" height="948" alt="image" src="https://github.com/user-attachments/assets/f1a168b6-a78f-41af-9545-d48fdf525f39" />
+<img width="1290" height="948" alt="Evidencia de ejecución" src="https://github.com/user-attachments/assets/f1a168b6-a78f-41af-9545-d48fdf525f39" />
 
 
 
